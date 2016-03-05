@@ -3,12 +3,12 @@
 
 ## Download and Install
 
-	1.	Install Processing 3 from processing.org
+	1. Install Processing 3 from processing.org
 
 ## Interaction
 
-	- Press any key on the keyboard to display the path that the circles follow.
-	- Re-run the program using different number of lines to see what happens!
+	-  Press any key on the keyboard to display the path that the circles follow.
+	-  Re-run the program using different number of lines to see what happens!
 
 ## License
 
